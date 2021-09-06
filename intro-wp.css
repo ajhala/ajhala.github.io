@@ -1,0 +1,44 @@
+#h2intro {
+    text-align: center;
+    font-family: fantasy;
+    font-size: 50px;
+    color:rgb(122, 21, 46) ;
+                }
+     #bintro{
+                background-color: rgb(231, 227, 215);
+                font-size: 18px;
+                font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            }    
+    #info-ab {
+      background-color: rgb(184, 151, 124);  
+      color: rgb(116, 69, 42);
+      padding: 100px;
+      margin: 100px;  
+      overflow: auto;
+      text-align: justify;   
+  
+              }
+    #para{
+      float: left;  
+    }          
+    #img {
+        float: right;
+         } 
+
+
+         
+         #bujn {
+            background-image: url(./sketch.jpg);
+            background-repeat: no-repeat;
+            background-position-x: 85%;
+            background-position-y: 65%;
+            background-attachment: fixed;
+            background-size: 30%;  
+            background-color: rgb(231, 227, 215);
+            font-family: cursive;
+        }   
+        #h1ujn {
+            text-align: center;
+            font-family: cursive;
+            font-size:50px;
+        }            
